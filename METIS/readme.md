@@ -1,4 +1,4 @@
-# Deployed Contracon Metis Andromeda
+# Deployed Contract on Metis Andromeda
 **Transaction hash**
 0xa19c0808cc9bd7341f81c834d724ffa4228157bf9637dbd3ea6550c56391ddf4
 
