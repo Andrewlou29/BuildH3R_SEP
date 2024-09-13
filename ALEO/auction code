@@ -1,5 +1,5 @@
 //Added a function to claim the prize with the winning bid
-program auction.aleo;
+program auctiontyrouemmyoat9.aleo;
 
 record Bid:
     owner as address.private;
